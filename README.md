@@ -1,7 +1,7 @@
 # Research on Nepal: Topics of Personal Interest
 
 
-This project is dedicated to research concerning Nepal. A manuscript stemming from this work is presently under review with the Journal of Business and Management Research [Journal of Business and Management Research] (https://nepjol.info/index.php/JBMR). The full text will be made available upon the editorial board's decision.
+This project is dedicated to research concerning Nepal. A manuscript stemming from this work is presently under review with the Journal of Business and Management Research [Journal of Business and Management Research](https://nepjol.info/index.php/JBMR). The full text will be made available upon the editorial board's decision.
 
 # Title: Beyond the Numbers: Causal Effects of Financial Report Sentiment on Bank Profitability 
 This study establishes the causal effects of market sentiment on firm profitability, moving beyond traditional correlational analyses. It leverages a causal forest machine learning methodol-
